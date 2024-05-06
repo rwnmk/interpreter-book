@@ -7,4 +7,13 @@
 
 ---
 
-- 
+## extensions
+
+- extend isLetter to expand allowed identifiers
+- extend readNumber to support for float & hex
+
+---
+
+## Parsing
+
+- Vaughan Pratt - recursive descent parsing strategy
