@@ -25,3 +25,6 @@
     - we then push the net statement onto the AST and advance tokens, then return program
 - so we're basically encoding the semantics of our language here, such as erroring out unless we're following rules like 'let <ident> = expression', building this part of the tree, then moving deeper
     - for expression, we're doing the same
+
+### 2.7 - how Pratt Parsing works
+
